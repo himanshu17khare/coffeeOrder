@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_52ee0fe8c0776972918dd8dbd497a9526e743110.jar" />
+    </item>
+    <item
+        jar="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_b2862e7a447f97f5a6927ec9dc2eca87ee7a05fe.jar" />
+    </item>
+    <item
+        jar="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_8a58a6c7226ed52501e855adb14c0fedaa2e9148.jar" />
+    </item>
+    <item
+        jar="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_4fde965ee759ceadeb9916e0868c74ee3beab9db.jar" />
+    </item>
+    <item
+        jar="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_324b88ca367564a98b42a9e16794fca362c0ba09.jar" />
+    </item>
+    <item
+        jar="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_e3ebe70a972825327a92d036482f55d2530c2f30.jar" />
+    </item>
+    <item
+        jar="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_717e81010c61cedafad0989fac8fe7b3a671a944.jar" />
+    </item>
+    <item
+        jar="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_6251de04ce5858b6687f4a61e721f6f5e2a5b026.jar" />
+    </item>
+    <item
+        jar="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_88483adc275b78adbe68c66955bff943d4be11c2.jar" />
+    </item>
+    <item
+        jar="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_c9672c294313d45b8d1efad1d5f6945392da7944.jar" />
+    </item>
+    <item
+        jar="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_d54fa0a4f3edf259597c080303893f044e1898dd.jar" />
+    </item>
+    <item
+        jar="/home/himanshu/Downloads/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_d17bd3ce48be3a0495b1a1e7ec23a45dfb69065b.jar" />
+    </item>
+    <item
+        jar="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_75c55841d95623fdaa6708aaf9ca555afe597978.jar" />
+    </item>
+    <item
+        jar="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_8a747671212bd5524d87105ea1b3a916e67abc6d.jar" />
+    </item>
+    <item
+        jar="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/himanshu/Desktop/AndroidProjects/Coffee order/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_2e8f5b20940ba4388d71a33dcb6ca4d215c998ca.jar" />
+    </item>
+
+</items>
